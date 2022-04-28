@@ -78,11 +78,11 @@ regarding the breast, these are sent to the saved ML model to predict whether th
 Depending on the result(0 or 1), a message box is displayed with the respective result.
 # Demo Images
 
-**Case 1 : Patient has Breast Cancer**
+## Case 1 : Patient has Breast Cancer
 ![First pic](https://i.imgur.com/uCeEnRm.png)
 ![Second pic](https://i.imgur.com/VlZCKdE.png)
 
-**Case 2 : Patient does not have Breast Cancer**
+## Case 2 : Patient does not have Breast Cancer
 ![Third pic](https://i.imgur.com/6xcPcfC.png)
 ![Fourth pic](https://i.imgur.com/vQsHnGT.png)
 
