@@ -79,11 +79,10 @@ Depending on the result(0 or 1), a message box is displayed with the respective 
 # Demo Images
 
 **Case 1 : Patient has Breast Cancer**
-![First pic](https://imgur.com/qmCDZXe)
-![Second pic](https://imgur.com/ASSUnUc)
+![First pic](https://ibb.co/8r6yR63)
+![Second pic](https://ibb.co/hD14tTt)
 
 **Case 2 : Patient does not have Breast Cancer**
-![Third pic](https://imgur.com/mRZQDgR)
-![Fourth pic](https://imgur.com/CcyGXfF)
-
+![Third pic](https://ibb.co/Z8CBfw3)
+![Fourth pic](https://ibb.co/F0DFL6w)
 
