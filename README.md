@@ -64,7 +64,7 @@ First the data was analysed with the help of pandas library for information and 
 The data was then pre-processed and then split to training and testing set.
 
 [Random Forest Classifier](https://scikit-learn.org/stable/modules/generated/sklearn.ensemble.RandomForestClassifier.html)
-was used as it gave the best accuracy and was the most efficient model to use
+was used as it gave the best accuracy (94.74%) and was the most efficient model to use
 for this project. 
 
 After the model was trained, it was saved to a joblib file so that it can be accessed in the main GUI program
